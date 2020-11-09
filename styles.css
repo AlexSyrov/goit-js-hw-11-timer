@@ -38,8 +38,9 @@
 .timer {
   display: flex;
   justify-content: center;
+  font-size: 40px;
 }
 
 .field {
-  margin-left: 10px;
+  margin-left: 20px;
 }

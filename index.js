@@ -40,7 +40,7 @@ class CountdownTimer {
     }; 
 
     endOfCountdown(timeToEnd) {
-        if (timeToEnd = 0) {
+        if (timeToEnd === 0) {
             clearInterval(this.intervalId);
         }
     }
